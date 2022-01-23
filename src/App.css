@@ -1,0 +1,14 @@
+.App {
+  font-family: 'Inter', sans-serif;
+  width: 100vw;
+  height: 100vh;
+}
+
+.App-title, .App-motto {
+  color: white;
+}
+
+.App-title {
+  font-size: 54px;
+  font-weight: bold;
+}
